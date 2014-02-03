@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Colored Net Load</string>
+    <string name="app_description">Change color of WiFi and Mobile active upload and download statusbar signalization</string>
+    <string name="wifi_color">WiFi Data Color</string><string name="mobile_color">Mobile Data Color</string>
+
+</resources>

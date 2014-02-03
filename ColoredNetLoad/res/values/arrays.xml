@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="wifi_color">
+        <item>stock</item>
+        <item>black</item><item>blue</item>
+        <item>green</item><item>orange</item><item>red</item>
+        <item>white</item>
+        <item >yellow</item>
+        
+        
+        
+    </string-array>
+    <string-array name="wifi_color_values">
+        <item>STOCK</item>
+        <item>BLACK</item>
+        <item>BLUE</item><item>GREEN</item><item>ORANGE</item><item>RED</item>
+        <item>WHITE</item>
+        <item >YELLOW</item>
+        
+        
+        
+    </string-array>
+    <string-array name="mobile_color">
+        <item>stock</item>
+        <item>black</item><item>blue</item><item>green</item><item>orange</item>
+        <item>red</item>
+        <item>white</item><item>yellow</item>
+    </string-array>
+    <string-array name="mobile_color_values">
+        <item>STOCK</item>
+        <item>BLACK</item><item>BLUE</item><item>GREEN</item><item>ORANGE</item>
+        <item>RED</item>
+        <item>WHITE</item>
+    <item>YELLOW</item></string-array>
+
+</resources>

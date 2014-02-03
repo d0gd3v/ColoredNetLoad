@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:defaultValue=""
+        android:entries="@array/wifi_color"
+        android:entryValues="@array/wifi_color_values"
+        android:key="WIFI_COLOR"
+        android:title="@string/wifi_color" />
+
+    <!-- NOTE: EditTextPreference accepts EditText attributes. -->
+    <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
+
+
+    <!--
+         NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to
+         dismiss it.
+    -->
+    <!-- NOTE: ListPreference's summary should be set to its value by the activity code. -->
+    <ListPreference
+        android:entries="@array/mobile_color"
+        android:entryValues="@array/mobile_color_values"
+        android:key="MOBILE_COLOR"
+        android:title="@string/mobile_color" />
+
+</PreferenceScreen>
